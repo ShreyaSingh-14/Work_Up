@@ -7,4 +7,4 @@ This repository contains my personal learnings and resources, updated regularly 
 - **CS Fundamentals** – Notes and diagrams for core concepts  
 - **Technical Writing** – Articles
 
-Stay tuned for continuous updates! 🚀
+
